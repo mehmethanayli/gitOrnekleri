@@ -1,1 +1,2 @@
 Bu satır commit 2 ile oluşturuldu.
+Bu satır commit 3 ile oluşturuldu.
